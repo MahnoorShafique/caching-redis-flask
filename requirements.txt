@@ -1,0 +1,7 @@
+Flask
+MarkupSafe
+psycopg2-binary
+flask_sqlalchemy
+Flask-Migrate
+Flask-Caching
+python-dotenv
